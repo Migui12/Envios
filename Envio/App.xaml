@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Envio.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <OnPlatform x:TypeArguments="x:String" x:Key="FontAwesomeRegular">
+                <On Platform="Android" Value="FontAwesome6Regula400.otf#Regular" />
+            </OnPlatform>
+
+            <OnPlatform x:TypeArguments="x:String" x:Key="FontAwesomeBrands">
+                <On Platform="Android" Value="FontAwesome6Brands400.otf#Brands" />
+            </OnPlatform>
+
+            <OnPlatform x:TypeArguments="x:String" x:Key="FontAwesomeSolid">
+                <On Platform="Android" Value="FontAwesome6Solid900.otf#Solid" />
+            </OnPlatform>
+        </ResourceDictionary>
+        <Color x:Key="PKColor">#FF5454</Color>
+        <Style x:Key="btn-primary" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="{StaticResource PKColor}"/>
+            <Setter Property="CornerRadius" Value="30"/>
+            <Setter Property="Margin" Value="80,0"/>
+        </Style>
+
+        <!-- ESTILO DE BOTONES -->
+        <Style x:Key="btn-green" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="LightSeaGreen"/>
+            <Setter Property="Margin" Value="80,0"/>
+            <Setter Property="CornerRadius"  Value="50"/>
+            <Setter Property="TextColor" Value="White"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
+    </Application.Resources>
+</Application>

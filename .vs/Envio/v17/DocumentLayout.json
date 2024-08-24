@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Paquete envio\\Envio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\figma\\vfprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\figma\\vfprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\oficina\\voprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\oficina\\voprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\producto\\vpprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\producto\\vpprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\figma\\vfprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\figma\\vfprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\oficina\\voprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\oficina\\voprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\producto\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\producto\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\menudesplegable\\lateral.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\menudesplegable\\lateral.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\figma\\vfbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\figma\\vfbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Paquete envio\\Envio\\Envio\\obj\\Debug\\netstandard2.0\\Views\\Producto\\VPPrincipal.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Envio\\obj\\Debug\\netstandard2.0\\Views\\Producto\\VPPrincipal.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941E296F-1263-459C-B750-17BD68766AF9}|Envio.Android\\Envio.Android.csproj|d:\\paquete envio\\envio\\envio.android\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941E296F-1263-459C-B750-17BD68766AF9}|Envio.Android\\Envio.Android.csproj|solutionrelative:envio.android\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\views\\figma\\vfbody.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\views\\figma\\vfbody.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|d:\\paquete envio\\envio\\envio\\envio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77A24EF6-618A-46F8-ABC7-BB447C2F4F97}|Envio\\Envio.csproj|solutionrelative:envio\\envio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VOPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\Oficina\\VOPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Envio\\Views\\Oficina\\VOPrincipal.xaml.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\Oficina\\VOPrincipal.xaml.cs",
+              "RelativeToolTip": "Envio\\Views\\Oficina\\VOPrincipal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:51:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VFPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\Figma\\VFPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Envio\\Views\\Figma\\VFPrincipal.xaml.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\Figma\\VFPrincipal.xaml.cs",
+              "RelativeToolTip": "Envio\\Views\\Figma\\VFPrincipal.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:42:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VPPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\Producto\\VPPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Envio\\Views\\Producto\\VPPrincipal.xaml.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\Producto\\VPPrincipal.xaml.cs",
+              "RelativeToolTip": "Envio\\Views\\Producto\\VPPrincipal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:54:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VFPrincipal.xaml",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\Figma\\VFPrincipal.xaml",
+              "RelativeDocumentMoniker": "Envio\\Views\\Figma\\VFPrincipal.xaml",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\Figma\\VFPrincipal.xaml",
+              "RelativeToolTip": "Envio\\Views\\Figma\\VFPrincipal.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-24T15:41:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VOPrincipal.xaml",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\Oficina\\VOPrincipal.xaml",
+              "RelativeDocumentMoniker": "Envio\\Views\\Oficina\\VOPrincipal.xaml",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\Oficina\\VOPrincipal.xaml",
+              "RelativeToolTip": "Envio\\Views\\Oficina\\VOPrincipal.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-24T18:40:41.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Envio\\App.xaml.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\App.xaml.cs",
+              "RelativeToolTip": "Envio\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:35:02.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VPPrincipal.xaml",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\Producto\\VPPrincipal.xaml",
+              "RelativeDocumentMoniker": "Envio\\Views\\Producto\\VPPrincipal.xaml",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\Producto\\VPPrincipal.xaml",
+              "RelativeToolTip": "Envio\\Views\\Producto\\VPPrincipal.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBcAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-24T15:53:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\App.xaml",
+              "RelativeDocumentMoniker": "Envio\\App.xaml",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\App.xaml",
+              "RelativeToolTip": "Envio\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-24T15:32:32.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Envio\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\MainPage.xaml.cs",
+              "RelativeToolTip": "Envio\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:34:59.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Envio\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\AssemblyInfo.cs",
+              "RelativeToolTip": "Envio\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:33:12.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lateral.xaml",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\MenuDesplegable\\Lateral.xaml",
+              "RelativeDocumentMoniker": "Envio\\Views\\MenuDesplegable\\Lateral.xaml",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\MenuDesplegable\\Lateral.xaml",
+              "RelativeToolTip": "Envio\\Views\\MenuDesplegable\\Lateral.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-24T18:34:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VFBody.xaml",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\Figma\\VFBody.xaml",
+              "RelativeDocumentMoniker": "Envio\\Views\\Figma\\VFBody.xaml",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\Figma\\VFBody.xaml",
+              "RelativeToolTip": "Envio\\Views\\Figma\\VFBody.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-24T15:47:16.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VFBody.xaml.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Views\\Figma\\VFBody.xaml.cs",
+              "RelativeDocumentMoniker": "Envio\\Views\\Figma\\VFBody.xaml.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Views\\Figma\\VFBody.xaml.cs",
+              "RelativeToolTip": "Envio\\Views\\Figma\\VFBody.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:48:02.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Envio",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\Envio.csproj",
+              "RelativeDocumentMoniker": "Envio\\Envio.csproj",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\Envio.csproj",
+              "RelativeToolTip": "Envio\\Envio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T15:33:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Envio\\MainPage.xaml",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\MainPage.xaml",
+              "RelativeToolTip": "Envio\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-24T15:33:05.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VPPrincipal.xaml.g.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio\\obj\\Debug\\netstandard2.0\\Views\\Producto\\VPPrincipal.xaml.g.cs",
+              "RelativeDocumentMoniker": "Envio\\obj\\Debug\\netstandard2.0\\Views\\Producto\\VPPrincipal.xaml.g.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio\\obj\\Debug\\netstandard2.0\\Views\\Producto\\VPPrincipal.xaml.g.cs",
+              "RelativeToolTip": "Envio\\obj\\Debug\\netstandard2.0\\Views\\Producto\\VPPrincipal.xaml.g.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:47:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Paquete envio\\Envio\\Envio.Android\\Class1.cs",
+              "RelativeDocumentMoniker": "Envio.Android\\Class1.cs",
+              "ToolTip": "D:\\Paquete envio\\Envio\\Envio.Android\\Class1.cs",
+              "RelativeToolTip": "Envio.Android\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:19:08.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

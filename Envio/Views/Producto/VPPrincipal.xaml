@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Envio.Views.Producto.VPPrincipal"
+             Title="Productos">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="{StaticResource PKColor}">
+
+            <StackLayout Orientation="Horizontal">
+                <Button BackgroundColor="Transparent" HorizontalOptions="Start">
+                    <Button.ImageSource>
+                        <FontImageSource Glyph="&#xf0c9;" FontFamily="{StaticResource FontAwesomeSolid}"/>
+                    </Button.ImageSource>
+                </Button>
+                <Label Text="Hola, Usuario" FontSize="30" TextColor="White" FontAttributes="Bold" Margin="0,20" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+            
+            
+               
+
+                <Frame Padding="0" Margin="0, 200, 0, -100" CornerRadius="50" HeightRequest="600">
+                <StackLayout Padding="40">
+                    <Grid ColumnDefinitions="*,*,*">
+                        <Button Grid.Column="0" CornerRadius="50" Margin="30" Clicked="Button_Clicked_2">
+                            <Button.ImageSource>
+                                <FontImageSource Color="Black" Glyph="&#xf594;" FontFamily="{StaticResource FontAwesomeSolid}"/>
+                            </Button.ImageSource>
+                        </Button>
+                        <Label Grid.Column="0" Text="Oficinas" HorizontalOptions="Center" VerticalOptions="End"></Label>
+
+                        <Button Grid.Column="1" CornerRadius="50" Margin="30">
+                            <Button.ImageSource>
+                                <FontImageSource Color="Black" Glyph="&#xf06e;" FontFamily="{StaticResource FontAwesomeSolid}"/>
+                            </Button.ImageSource>
+                        </Button>
+                        <Label Grid.Column="1" Text="Ver Estado" HorizontalOptions="Center" VerticalOptions="End"></Label>
+
+                        <Button Grid.Column="2"  CornerRadius="50" Margin="30">
+                            <Button.ImageSource>
+                                <FontImageSource Color="Black" Glyph="&#xf7da;" FontFamily="{StaticResource FontAwesomeSolid}"/>
+                            </Button.ImageSource>
+                        </Button>
+                        <Label Grid.Column="2" Text="Cotizar" HorizontalOptions="Center" VerticalOptions="End"></Label>
+
+                        <Button Grid.Column="0" Grid.Row="1"  CornerRadius="50" Margin="30">
+                            <Button.ImageSource>
+                                <FontImageSource Color="Black" Glyph="&#xf3c5;" FontFamily="{StaticResource FontAwesomeSolid}"/>
+                            </Button.ImageSource>
+                        </Button>
+                        <Label Grid.Row="1" Text="Enviar" HorizontalOptions="Center" VerticalOptions="End"></Label>
+                        
+                    </Grid>
+
+                    <Frame HorizontalOptions="Center" BackgroundColor="Transparent" Margin="0, 10, 0, 0">
+                        <Grid ColumnDefinitions="*,*">
+                            <Button Grid.Column="0" Text="XX" BackgroundColor="#FF5454" TextColor="White" CornerRadius="10" Margin="40,0"/>
+                            <Button Grid.Column="1" Text="Salir" Clicked="Button_Clicked" BackgroundColor="#FF5454" TextColor="White" CornerRadius="10" Margin="40,0"/>
+                        </Grid>
+                    </Frame>
+                    
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
